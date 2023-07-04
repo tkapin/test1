@@ -1,7 +1,7 @@
 ---
 name: Rollout issue
 about: Create issue to capture rollout audit trail
-title: ''
+title: 'Rollout DD-MM-YYYY'
 labels: Rollout
 assignees: ''
 
